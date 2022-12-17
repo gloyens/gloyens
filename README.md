@@ -5,7 +5,7 @@
 - 🌱 Learning **Ruby**, **Rails**, and **JavaScript**
 - 👷‍♂️ I Created:
   - 🎵 [Get Into Gizz](https://get-into-gizz.com/)
-  - 🧃 [NANO](http://www.getnano.uk/)
+  - 🧃 [NANO](http://www.getnano.uk/) (*with [friends](https://github.com/kiran-blip/nano)!*)
   - 😄 [Avatar Creator](https://gloyens.github.io/avatar-creator/)
   - 🍃 [Super Leaf Crusher](https://starborg.itch.io/super-leaf-crusher)
 - I use `.rb`, `.js`, `.html`, `.css` and `.ai` daily
