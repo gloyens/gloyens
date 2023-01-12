@@ -1,7 +1,7 @@
 ### Hi, I’m George 👋
 **I'm a full-stack software engineer working in London, UK.**
 
-- ✒️ Currently working on **20 Minutes of Crap**, an app to help authors break through writers' block
+- ✒️ Currently working on **[20 Minutes of Crap](http://twenty-moc.herokuapp.com/)**, an app to help authors break through writers' block
 - 🌱 Learning **Ruby**, **Rails**, and **JavaScript**
 - 👷‍♂️ I Created:
   - 🎵 [Get Into Gizz](https://get-into-gizz.com/)
