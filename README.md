@@ -1,9 +1,10 @@
 ### Hi, I’m George 👋
 **I'm a full-stack software engineer working in London, UK.**
 
-- ✒️ Currently working on **[20 Minutes of Crap](http://twenty-moc.herokuapp.com/)**, an app to help authors break through writers' block
-- 🌱 Learning **Ruby**, **Rails**, and **JavaScript**
+- ✒️ Currently working on **[react-test](https://github.com/gloyens/react-test)**, following a simple tutorial in order to learn React
+- 🌱 Learning **Ruby on Rails**, **Javascript and **React**
 - 👷‍♂️ I Created:
+  - ✒️ [20 Minutes of Crap](http://twenty-moc.herokuapp.com/)
   - 🎵 [Get Into Gizz](https://get-into-gizz.com/)
   - 🧃 [NANO](http://www.getnano.uk/) (with [friends](https://github.com/kiran-blip/nano)!)
   - 😄 [Avatar Creator](https://gloyens.github.io/avatar-creator/)
