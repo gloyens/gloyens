@@ -1,7 +1,7 @@
 ### Hi, I’m George 👋
 **I'm a full-stack software engineer working in London, UK.**
 
-- ✒️ Currently working on **[react-test](https://github.com/gloyens/react-test)**, following a simple tutorial in order to learn React
+- ✒️ Currently working on **[bookmarks](https://gloyens.github.io/bookmarks/)**, a simple CRUD app made in React
 - 🌱 Learning **Ruby on Rails**, **Javascript and **React**
 - 👷‍♂️ I Created:
   - ✒️ [20 Minutes of Crap](http://twenty-moc.herokuapp.com/)
