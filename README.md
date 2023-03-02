@@ -10,7 +10,7 @@
   - 😄 [Avatar Creator](https://gloyens.github.io/avatar-creator/)
   - 🍃 [Super Leaf Crusher](https://starborg.itch.io/super-leaf-crusher)
 - I use `.js`, `.ts`, `.html`, `.css` and `.ai` daily
-- 👀 I’m interested in **full stack web development**
+- 👀 I’m interested in **AI and WebGL**
 - 📫 Contact me on [**LinkedIn**](https://www.linkedin.com/in/gloyens/)
 - ⚡ Fun fact: I used to live in Japan 🗾
 
