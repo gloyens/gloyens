@@ -9,7 +9,7 @@
   - 🧃 [NANO](http://www.getnano.uk/) (with [friends](https://github.com/kiran-blip/nano)!)
   - 😄 [Avatar Creator](https://gloyens.github.io/avatar-creator/)
   - 🍃 [Super Leaf Crusher](https://starborg.itch.io/super-leaf-crusher)
-- I use `.rb`, `.js`, `.html`, `.css` and `.ai` daily
+- I use `.js`, `.ts`, `.html`, `.css` and `.ai` daily
 - 👀 I’m interested in **full stack web development**
 - 📫 Contact me on [**LinkedIn**](https://www.linkedin.com/in/gloyens/)
 - ⚡ Fun fact: I used to live in Japan 🗾
