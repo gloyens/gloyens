@@ -2,7 +2,7 @@
 **I'm a full-stack software engineer working in London, UK.**
 
 - 💪 Currently working on cool stuff at **[Phantom](https://www.phantom.land)** 👻
-- 🌱 Learning **Next.js**, **Three.js** and **Stable Diffusion**
+- 🌱 Always learning more about **Next.js** and associated technologies 
 - 👷‍♂️ I Created:
   - 🎬 [MovieBot](https://movie-recs-seven.vercel.app/)
   - 🎵 [Get Into Gizz](https://get-into-gizz.com/)
